@@ -14,12 +14,12 @@ Download the program [Here](https://github.com/Nerzors/seimgconverter/releases) 
 [Youtube Video Preview #000](https://youtu.be/VIy1W16Ep-I)
 
 <p float="left">
-  <img src="https://eternal-quill.space/se/imgconv/preview_1.png" width="420" />
-  <img src="https://eternal-quill.space/se/imgconv/preview_2.png" width="420" />
+  <img src="https://eternal-quill.space/se/imgconv/preview_1.png" width="320" />
+  <img src="https://eternal-quill.space/se/imgconv/preview_2.png" width="320" />
 </p>
 <p float="left">
-  <img src="https://eternal-quill.space/se/imgconv/preview_3.png" width="420" />
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.9.0.png" width="420" />
+  <img src="https://eternal-quill.space/se/imgconv/preview_3.png" width="320" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.9.0.png" width="320" />
 </p>
 
 ---
