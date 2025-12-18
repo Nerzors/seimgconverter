@@ -1,9 +1,9 @@
 # eq_SEImgConverter (Space Engineers Image → Monospace)
 
 SEImgConverter turns images into **monospace text strings** you can paste into **Space Engineers LCD panels** (Text & Images).  
-It includes a live preview, crop box, dithering, and multi-panel output (e.g. 1 panel, 3 panels, 3x2, etc.).
+It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 panel, 3 panels, 3x2, etc.) and an update system.
 
-> **Language note:** The app UI is currently **German only**. **English UI support is coming soon.**
+> **Language note:** The app UI supports **English since v0.9.0** (German is still available).
 
 ---
 
@@ -12,20 +12,22 @@ It includes a live preview, crop box, dithering, and multi-panel output (e.g. 1 
 ![Preview 1](https://eternal-quill.space/se/imgconv/preview_1.png)
 ![Preview 2](https://eternal-quill.space/se/imgconv/preview_2.png)
 ![Preview 3](https://eternal-quill.space/se/imgconv/preview_3.png)
-![Preview 4](https://eternal-quill.space/se/imgconv/preview_4.png)
+![Preview 4](https://eternal-quill.space/se/imgconv/update_0.9.0.png)
 
 ---
 
 ## Features
 
 - Convert images to **monospace text** for Space Engineers LCDs
-- **178x178** panel resolution (Space Engineers LCD style)
-- **Multi-panel layouts** (Cols x Rows) for splitting one image across multiple LCDs
+- **Panel presets** (foundation for multiple LCD block types & sizes)
+- **178×178** default panel mapping (classic LCD/Text Panel style)
+- **Multi-panel layouts** (Cols × Rows) to split one image across multiple LCDs
 - **Dithering modes** (e.g. Floyd–Steinberg, Bayer, Atkinson, …)
-- **Crop box** with mask + thirds grid
-- **Pan / Zoom** + live preview (optional)
+- **Crop box** with mask + rule-of-thirds grid
+- **Pan / Zoom** + optional **Live Preview**
 - **Grid overlay** to visualize panel splits
 - **Copy per panel** + **Export panels as .txt files**
+- **Auto update check** (with update dialog + ignore option)
 
 ---
 
@@ -49,14 +51,14 @@ The app can check for updates on startup and will show a dialog if a newer versi
 (You can disable auto-update checks in the Advanced/Debug section.)
 
 ---
-
 ## Roadmap (planned)
 
-- Full **English UI**
+- ~~Full **English UI**~~ ✔️ (since v0.9.0)
 - More dithering options / fine tuning
 - Rotate / flip tools
 - Better preview tools (guides, positioning, zoom controls)
 - Quality improvements for LCD readability
+- ~~Verified presets for more LCD block types (Corner / Curved / Sci-Fi, etc.)~~ ✔️ (since v0.9.0)
 
 ---
 
