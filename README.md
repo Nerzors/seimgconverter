@@ -22,10 +22,12 @@ Download the program [Here](https://github.com/Nerzors/seimgconverter/releases) 
   <img src="https://app.eternal-quill.space/se/imgconv/update_0.9.0.png" width="320" />
 </p>
 
+<img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_2.png" width="320" />
+<img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_3.png" width="320" />
 ---
 
 ## Features
-
+- Library (Project Storage): Save conversions including settings, panel layout, and a thumbnail.
 - Convert images to **monospace text** for Space Engineers LCDs
 - **Panel presets** (foundation for multiple LCD block types & sizes)
 - **178×178** default panel mapping (classic LCD/Text Panel style)
