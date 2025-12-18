@@ -8,6 +8,7 @@ It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 pane
 ---
 
 ## Preview
+[Youtube Video Preview #000](https://youtu.be/VIy1W16Ep-I)
 
 ![Preview 1](https://eternal-quill.space/se/imgconv/preview_1.png)
 ![Preview 2](https://eternal-quill.space/se/imgconv/preview_2.png)
