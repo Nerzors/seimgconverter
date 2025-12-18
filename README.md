@@ -12,7 +12,7 @@ It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 pane
 ![Preview 1](https://eternal-quill.space/se/imgconv/preview_1.png)
 ![Preview 2](https://eternal-quill.space/se/imgconv/preview_2.png)
 ![Preview 3](https://eternal-quill.space/se/imgconv/preview_3.png)
-![Preview 4](https://eternal-quill.space/se/imgconv/update_0.9.0.png)
+![Preview 4](https://app.eternal-quill.space/se/imgconv/update_0.9.0.png)
 
 ---
 
