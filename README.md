@@ -7,13 +7,20 @@ It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 pane
 
 ---
 
+## Where do I get the program?
+Download the program [Here](https://github.com/Nerzors/seimgconverter/releases) :)
+
 ## Preview
 [Youtube Video Preview #000](https://youtu.be/VIy1W16Ep-I)
 
-![Preview 1](https://eternal-quill.space/se/imgconv/preview_1.png)
-![Preview 2](https://eternal-quill.space/se/imgconv/preview_2.png)
-![Preview 3](https://eternal-quill.space/se/imgconv/preview_3.png)
-![Preview 4](https://app.eternal-quill.space/se/imgconv/update_0.9.0.png)
+<p float="left">
+  <img src="https://eternal-quill.space/se/imgconv/preview_1.png" width="420" />
+  <img src="https://eternal-quill.space/se/imgconv/preview_2.png" width="420" />
+</p>
+<p float="left">
+  <img src="https://eternal-quill.space/se/imgconv/preview_3.png" width="420" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.9.0.png" width="420" />
+</p>
 
 ---
 
@@ -34,9 +41,10 @@ It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 pane
 
 ## How to use (in Space Engineers)
 
-1. Convert an image in the app (choose layout, dithering, crop/zoom if needed).
-2. Copy the output string for the panel you want.
-3. In Space Engineers:
+1. Load a Images per Button or Drag and Drop
+2. Convert (choose layout, dithering, crop/zoom if needed).
+3. Copy the output string for the panel you want.
+4. In Space Engineers:
    - LCD → **Content:** `Text and Images`
    - **Font:** `Monospace`
    - Paste text
