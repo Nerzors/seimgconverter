@@ -40,9 +40,9 @@ It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 pane
    - LCD → **Content:** `Text and Images`
    - **Font:** `Monospace`
    - Paste text
-   - Set **Font Size** (commonly around `0.1`, depending on your LCD size)
+   - Set **Font Size** (commonly around `0.1` for Corner-LCD `0.4`, depending on your LCD size)
 
-Tip: For best results, use **Crop + Zoom ~1.1–1.4** and a dithering mode.
+Tip: For best results, use **Crop + Zoom ~0.9–1.2** and a dithering mode.
 
 ---
 
