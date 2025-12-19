@@ -69,7 +69,7 @@ The app can check for updates on startup and will show a dialog if a newer versi
 ## Roadmap (planned)
 
 - ~~Full **English UI**~~ ✔️ (since v0.9.0)
-- More dithering options / fine tuning
+- ~~More dithering options / fine tuning~~ ✔️ (since v0.11.0)
 - Rotate / flip tools
 - Better preview tools (guides, positioning, zoom controls)
 - Quality improvements for LCD readability
