@@ -22,8 +22,12 @@ Download the program [Here](https://github.com/Nerzors/seimgconverter/releases) 
   <img src="https://app.eternal-quill.space/se/imgconv/update_0.9.0.png" width="320" />
 </p>
 
-<img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_2.png" width="320" />
-<img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_3.png" width="320" />
+<p float="left">
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_2.png" width="320" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_3.png" width="320" />
+</p>
+
+<img src="https://app.eternal-quill.space/se/imgconv/update_0.11.0.png" width="320" />
 ---
 
 ## Features
