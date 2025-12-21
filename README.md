@@ -63,16 +63,15 @@ Tip: For best results, use **Crop + Zoom ~0.9–1.2** and a dithering mode.
 ## Updates
 
 The app can check for updates on startup and will show a dialog if a newer version is available.  
-(You can disable auto-update checks in the Advanced/Debug section.)
+(You can disable auto-update checks in the Settings.)
 
 ---
 ## Roadmap (planned)
 
 - ~~Full **English UI**~~ ✔️ (since v0.9.0)
 - ~~More dithering options / fine tuning~~ ✔️ (since v0.11.0)
-- Rotate / flip tools
-- Better preview tools (guides, positioning, zoom controls)
-- Quality improvements for LCD readability
+- ~~Rotate / flip tools~~ (Next Update)
+- ~~Better preview tools (guides, positioning, zoom controls)~~ (Next Update)
 - ~~Verified presets for more LCD block types (Corner / Curved / Sci-Fi, etc.)~~ ✔️ (since v0.9.0)
 
 ---
