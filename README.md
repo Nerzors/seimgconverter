@@ -13,21 +13,16 @@ Download the program [Here](https://github.com/Nerzors/seimgconverter/releases) 
 ## Preview
 [Youtube Video Preview #000](https://youtu.be/VIy1W16Ep-I)
 
+<img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0.png" width="640" />
 <p float="left">
-  <img src="https://eternal-quill.space/se/imgconv/preview_1.png" width="320" />
-  <img src="https://eternal-quill.space/se/imgconv/preview_2.png" width="320" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_1.png" width="320" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_2.png" width="320" />
 </p>
 <p float="left">
-  <img src="https://eternal-quill.space/se/imgconv/preview_3.png" width="320" />
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.9.0.png" width="320" />
+  <img src="https://eternal-quill.space/se/imgconv/preview_1.png" width="180" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_2.png" width="180" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.11.0.png" width="180" />
 </p>
-
-<p float="left">
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_2.png" width="320" />
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_3.png" width="320" />
-</p>
-
-<img src="https://app.eternal-quill.space/se/imgconv/update_0.11.0.png" width="320" />
 ---
 
 ## Features
@@ -70,8 +65,8 @@ The app can check for updates on startup and will show a dialog if a newer versi
 
 - ~~Full **English UI**~~ ✔️ (since v0.9.0)
 - ~~More dithering options / fine tuning~~ ✔️ (since v0.11.0)
-- ~~Rotate / flip tools~~ (Next Update)
-- ~~Better preview tools (guides, positioning, zoom controls)~~ (Next Update)
+- ~~Rotate / flip tools~~ (since v0.12.0)
+- ~~Better preview tools (guides, positioning, zoom controls)~~ (since v0.12.0)
 - ~~Verified presets for more LCD block types (Corner / Curved / Sci-Fi, etc.)~~ ✔️ (since v0.9.0)
 
 ---
