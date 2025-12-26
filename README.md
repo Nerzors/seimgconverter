@@ -26,6 +26,7 @@ Download the program [Here](https://github.com/Nerzors/seimgconverter/releases) 
 ---
 
 ## Features
+- English and German Language Support.
 - Library (Project Storage): Save conversions including settings, panel layout, and a thumbnail.
 - Convert images to **monospace text** for Space Engineers LCDs
 - **Panel presets** (foundation for multiple LCD block types & sizes)
@@ -33,7 +34,7 @@ Download the program [Here](https://github.com/Nerzors/seimgconverter/releases) 
 - **Multi-panel layouts** (Cols × Rows) to split one image across multiple LCDs
 - **Dithering modes** (e.g. Floyd–Steinberg, Bayer, Atkinson, …)
 - **Crop box** with mask + rule-of-thirds grid
-- **Pan / Zoom** + optional **Live Preview**
+- **Pan / Zoom / Rotate / flip** + optional **Live Preview**
 - **Grid overlay** to visualize panel splits
 - **Copy per panel** + **Export panels as .txt files**
 - **Auto update check** (with update dialog + ignore option)
@@ -68,6 +69,7 @@ The app can check for updates on startup and will show a dialog if a newer versi
 - ~~Rotate / flip tools~~ (since v0.12.0)
 - ~~Better preview tools (guides, positioning, zoom controls)~~ (since v0.12.0)
 - ~~Verified presets for more LCD block types (Corner / Curved / Sci-Fi, etc.)~~ ✔️ (since v0.9.0)
+- More Language (?)
 
 ---
 
