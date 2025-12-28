@@ -1,79 +1,119 @@
-# eq_SEImgConverter (Space Engineers Image → Monospace)
+<p align="center">
+  <img src="https://app.eternal-quill.space/se/imgconv/media/eternal-quill_seimgconverter_logo.small.png" width="345" alt="SEImgConverter Logo" />
+</p>
 
-SEImgConverter turns images into **monospace text strings** you can paste into **Space Engineers LCD panels** (Text & Images).  
+<h1 align="center">Eternal-Quill: SEImgConverter (Space Engineers Image → Monospace)</h1>
+
+<p align="center" style="text-decoration: none;">
+  <a href="https://github.com/Nerzors/seimgconverter/releases" style="text-decoration: none;">
+    <img alt="version" src="https://img.shields.io/github/v/release/Nerzors/seimgconverter?display_name=tag&sort=semver&style=flat&label=version" />
+  </a>
+  <a href="https://github.com/Nerzors/seimgconverter/releases" style="text-decoration: none;">
+    <img alt="downloads" src="https://img.shields.io/github/downloads/Nerzors/seimgconverter/total?style=flat&label=total%20downloads" />
+  </a>
+  <a href="https://github.com/Nerzors/seimgconverter/stargazers" style="text-decoration: none;">
+    <img alt="stars" src="https://img.shields.io/github/stars/Nerzors/seimgconverter?style=flat&label=stars" />
+  </a>
+  <a href="https://github.com/Nerzors/seimgconverter/commits/main" style="text-decoration: none;">
+    <img alt="last commit" src="https://img.shields.io/github/last-commit/Nerzors/seimgconverter?style=flat&label=last%20commit" />
+  </a>
+  <a href="https://github.com/Nerzors/seimgconverter/blob/main/LICENSE" style="text-decoration: none;">
+    <img alt="license" src="https://img.shields.io/github/license/Nerzors/seimgconverter?style=flat&label=license" />
+  </a>
+  <img alt="Tech" src="https://img.shields.io/badge/.NET-WPF-blueviolet" />
+</p>
+
+SEImgConverter converts images into **monospace text strings** you can paste into **Space Engineers LCD panels** (`Text and Images`).  
 It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 panel, 3 panels, 3x2, etc.) and an update system.
 
-> **Language note:** The app UI supports **English since v0.9.0** (German is still available).
+> **Languages:** English + German (since v0.9.0)
 
 ---
 
-## Where do I get the program?
-Download the program [Here](https://github.com/Nerzors/seimgconverter/releases) :)
+## Download
+Get the latest release here: **https://github.com/Nerzors/seimgconverter/releases**
+
+---
 
 ## Preview
-[Youtube Video Preview #000](https://youtu.be/VIy1W16Ep-I)
+YouTube: [Showcase - Preview #000](https://youtu.be/VIy1W16Ep-I) *before update v0.12.0*
 
-<img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0.png" width="640" />
+<img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0.png" width="720" />
 <p float="left">
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_1.png" width="320" />
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_2.png" width="320" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_1.png" width="360" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_2.png" width="360" />
 </p>
 <p float="left">
-  <img src="https://eternal-quill.space/se/imgconv/preview_1.png" width="180" />
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_2.png" width="180" />
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.11.0.png" width="180" />
+  <img src="https://eternal-quill.space/se/imgconv/preview_1.png" width="220" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_2.png" width="220" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_0.11.0.png" width="220" />
 </p>
+
 ---
 
 ## Features
-- English and German Language Support.
-- Library (Project Storage): Save conversions including settings, panel layout, and a thumbnail.
+
+### Core
 - Convert images to **monospace text** for Space Engineers LCDs
-- **Panel presets** (foundation for multiple LCD block types & sizes)
-- **178×178** default panel mapping (classic LCD/Text Panel style)
-- **Multi-panel layouts** (Cols × Rows) to split one image across multiple LCDs
-- **Dithering modes** (e.g. Floyd–Steinberg, Bayer, Atkinson, …)
-- **Crop box** with mask + rule-of-thirds grid
-- **Pan / Zoom / Rotate / flip** + optional **Live Preview**
+- **Live Preview** with automatic re-convert on relevant setting changes
+- **Multi-panel layouts** (Cols × Rows) to split an image across multiple LCDs
+- **Panel presets** for different LCD block types & sizes (verified presets included)
+
+### Editor Tools
+- **Crop box** with optional mask + rule-of-thirds grid
+- **Pan / Zoom**
+- **Rotate / Flip** tools + transform state indicator
 - **Grid overlay** to visualize panel splits
-- **Copy per panel** + **Export panels as .txt files**
-- **Auto update check** (with update dialog + ignore option)
+
+### Image / Render
+- Multiple **dithering modes** (Floyd–Steinberg, Bayer, Atkinson, …)
+- Render filters:
+  - **Blur / Sharpen**
+
+### Workflow
+- **Copy per panel** + export as `.txt`
+- **Library**: save conversions including settings, layout, thumbnail + optional source
+- Built-in **update checker** (disable in Settings)
 
 ---
 
-## How to use (in Space Engineers)
+## How to use (Space Engineers)
 
-1. Load a Images per Button or Drag and Drop
-2. Convert (choose layout, dithering, crop/zoom if needed).
-3. Copy the output string for the panel you want.
-4. In Space Engineers:
+1. Load an image (button or drag & drop).
+2. Pick a panel preset + layout (Cols/Rows).
+3. Adjust crop/zoom, dithering and filters until it looks good.
+4. Copy the panel output you need.
+5. In Space Engineers:
    - LCD → **Content:** `Text and Images`
    - **Font:** `Monospace`
    - Paste text
-   - Set **Font Size** (commonly around `0.1` for Corner-LCD `0.4`, depending on your LCD size)
+   - Adjust **Font Size**  
+     (common values: around `0.1` for many panels, `0.4` for some Corner LCDs — depends on block size)
 
-Tip: For best results, use **Crop + Zoom ~0.9–1.2** and a dithering mode.
+**Tip:** For best results, use **Crop + Zoom ~0.9–1.2** and a dithering mode.
 
 ---
 
 ## Updates
-
-The app can check for updates on startup and will show a dialog if a newer version is available.  
-(You can disable auto-update checks in the Settings.)
+The app can check for updates on startup and will show a dialog when a newer version is available.  
+You can disable auto-checks in **Settings**.
 
 ---
-## Roadmap (planned)
 
-- ~~Full **English UI**~~ ✔️ (since v0.9.0)
-- ~~More dithering options / fine tuning~~ ✔️ (since v0.11.0)
-- ~~Rotate / flip tools~~ (since v0.12.0)
-- ~~Better preview tools (guides, positioning, zoom controls)~~ (since v0.12.0)
-- ~~Verified presets for more LCD block types (Corner / Curved / Sci-Fi, etc.)~~ ✔️ (since v0.9.0)
-- More Language (?)
+## Roadmap
+- ✅ English UI (since v0.9.0)
+- ✅ Verified presets (since v0.9.0)
+- ✅ More dithering modes (since v0.11.0)
+- ✅ Rotate / Flip tools (since v0.12.0)
+- 🚧 More __Render filters__: *Auto Levels*, *Contrast*, *Gamma*
+- 🚧 **Dither Strength** for fine tuning (in progress)
+- 🚧 Undo / Redo + History tab (in progress)
+- 🚧 Export Manager improvements (in progress)
+- 🕛 Fun / Special *__Style Presets__*: *Retro CRT*, *Blueprint*, *Comic*
+- 🌍 More languages (maybe?)
 
 ---
 
 ## Credits
-
 Developed by **Nerzors.DE**  
 Project page: **Eternal-Quill**
