@@ -1,5 +1,5 @@
-name: 🐛 Bug Report
-description: Report a bug (Windows app)
+name: 🐛 Bug Report - EN
+description: Report a bug (Windows app) for Language English
 title: "[Bug]: "
 labels: ["bug"]
 body:
