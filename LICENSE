@@ -6,53 +6,77 @@ Effective Date: [2026-01-01]
 Copyright (c) 2025 Nerzors.DE
 All rights reserved.
 
+This license document governs the use of the Software and all associated materials.
+
 1) Definitions
-“Software” means Eternal-Quill: SEImgConverter including binaries, installers, portable/standalone builds, source code (if any), libraries, modules, updates, and all associated materials (icons, graphics, logos, UI assets, sounds, texts, configuration files, templates, translations, documentation).
-“Non-Commercial Use” means private/personal use with no business/professional/organizational connection and no monetary or economic advantage.
-“Commercial Use” means any use connected directly or indirectly to business, professional, organizational or institutional activity or seeking/enabling economic benefit, including: use by companies/organizations; use at work; use to provide services; use in monetized content; use to support/promote/operate a product/service/business process.
-“Distribution” means any making available to third parties (hosting, mirroring, uploading, bundling, sharing, app stores, package managers, download sites, torrents, etc.).
-“Derivatives/Modifications” means any change, adaptation, translation, patch, fork, re-branding, or building modified versions.
-“Extraction of Elements” means copying/extracting/reusing any parts (code snippets, implementations, assets, icons, texts, UI/layouts, configs, templates) in other projects/products/publications.
+1.1 “Software” means the program(s) ETERNAL-QUILL: SEIMGCONVERTER, including executable files, installers, portable/standalone builds, source code (if any), libraries, modules, updates, as well as all contents, resources and materials that are included with or belong to the Software (e.g., icons, graphics, logos, UI assets, sounds, texts, configuration files, templates, translations, documentation).
+1.2 “Licensor” is Nerzors - Nerzors.DE.
+1.3 “You”/“User” means any natural or legal person who uses or accesses the Software.
+1.4 “Non-Commercial Use” means any use exclusively for private, personal purposes without connection to a business, professional, or commercial activity and without monetary or economic advantage.
+1.5 “Commercial Use” means any use that is directly or indirectly connected with a business, professional, commercial, or institutional activity or that seeks/enables an economic benefit. Commercial Use includes in particular (non-exhaustive):
+   (a) use by companies, authorities, organizations, associations, educational institutions or other legal entities,
+   (b) use in the context of work/professional activity (including internal use, even without distribution),
+   (c) use to provide services to third parties,
+   (d) use in monetized content (e.g., advertising, sponsorships, paid courses, paywalls),
+   (e) use to support, promote or operate a product, service, or business process.
+1.6 “Distribution/Sharing” means any offering, transfer, upload, mirroring, re-hosting, bundling, sharing, or otherwise making available the Software or copies thereof to third parties — including via app stores, package managers, download portals, forums, messengers, “mirror” servers, torrents, or websites.
+1.7 “Derivative Works/Modifications” means any change, adaptation, translation, editing, transformation, extension, compilation of a modified version, patch, fork, re-branding, or other modification of the Software or any part of it.
+1.8 “Extraction of Elements” means copying, extracting, reusing or incorporating parts of the Software (e.g., code snippets, algorithm implementations, UI assets, icons, texts, designs, layouts, configurations, templates) into other projects, products, or publications.
 
 2) License Grant (Non-Commercial Only)
-You are granted a revocable, non-exclusive, non-transferable, non-sublicensable license for Non-Commercial Use only to download (from Official Sources), install/run, and make reasonable personal backup copies.
-All rights not expressly granted are reserved.
+2.1 The Licensor grants you a revocable, non-exclusive, non-transferable, non-sublicensable license to use the Software exclusively for Non-Commercial Use to:
+   (a) download (only from official sources pursuant to Section 4),
+   (b) install and run,
+   (c) make a reasonable number of copies for personal backups.
+2.2 All rights not expressly granted are reserved by the Licensor.
 
-3) Commercial Use (Permission Required)
-Commercial Use is strictly prohibited without prior written permission. Contact: dev@nerzors.de.
+3) Commercial Use (Only With Written Permission)
+3.1 Any Commercial Use is strictly prohibited without prior written consent of the Licensor.
+3.2 For Commercial Use, the Licensor may grant a separate commercial license (possibly for a fee). Contact: DEV@NERZORS.DE.
 
 4) Official Distribution Channels / No Third-Party Downloads
-Official Sources:
-- GitHub Releases: https://github.com/Nerzors/seimgconverter/releases
-- Website: https://app.eternal-quill.space/
+4.1 You may obtain and use the Software only from the following “Official Sources”:
+  - GitHub Releases: https://github.com/Nerzors/seimgconverter/releases
+  - Official download page: https://app.eternal-quill.space/se/imgconv
 
-For details on official builds, filenames and verification guidance, see OFFICIAL-DOWNLOADS.md.
-You may not distribute the Software. You may share links to Official Sources only.
+Further details (official builds, filenames, verification, planned installers) can be found in OFFICIAL-DOWNLOADS.md.
+4.2 You may not distribute/share the Software yourself or through third parties (see definition 1.6).
+4.3 Sharing links to the official download pages is permitted, as long as you do not host files yourself or redirect in a way that effectively constitutes re-hosting.
 
-5) No Modifications / No Derivatives
-You may not modify, create derivatives, or publish modified builds. No decompiling, disassembly, reverse engineering, or circumvention, except where mandatory law permits and only to the minimum required extent.
+5) No Modifications / No Derivative Works
+5.1 You may not modify the Software and may not create or publish derivative works.
+5.2 In particular, you may not:
+   (a) create or distribute modified builds/installers/portable versions,
+   (b) decompile, disassemble or reverse engineer the Software,
+   (c) circumvent or remove protection mechanisms.
+5.3 Exceptions apply only to the extent that mandatory law in your country expressly permits certain actions (e.g., legally permitted interoperability analysis). Where an exception applies, the scope must be limited to what is strictly necessary.
 
-6) No Extraction / No Reuse of Components
-You may not extract or reuse any elements of the Software (including assets, texts, templates, configs, or code parts) without prior written permission, except where mandatory law allows.
-You may describe/review the Software and use screenshots for bug reports/feedback, as long as you do not distribute Software files and do not remove notices.
+6) No Extraction of Elements / No Reuse of Components
+6.1 You may not extract or reuse elements from the Software (definition 1.8), in whole or in part, without prior written consent of the Licensor.
+6.2 This expressly includes: icons/logos, graphics, UI design/layouts, texts/strings, templates, configuration files, as well as code parts (including small excerpts), unless mandatory law permits otherwise.
+6.3 The right to describe or review the Software, or to use screenshots for bug reports/feedback, remains unaffected, provided that no Software files are distributed and legal notices are not removed.
 
-7) Notices
-You may not remove or alter copyright, trademark, license, or other notices.
+7) Copyright and Notice Obligations
+7.1 You may not remove, alter, or obscure copyright, trademark, license or other rights notices.
+7.2 For permissible quotations/illustrations (e.g., a screenshot in an issue), rights notices must remain in place insofar as they are visible.
 
-8) Trademarks
-Names/logos may be protected; no branding/marketing use without written permission.
+8) Trademarks / Names
+8.1 Eternal-Quill: SEImgConverter and associated logos may be protected by trademark and/or unfair competition law. Use for branding or advertising purposes is prohibited without written consent.
 
-9) Termination
-This license terminates automatically upon breach. You must stop using and delete copies (except where legally required).
+9) Term and Termination
+9.1 This license remains in effect until terminated.
+9.2 In the event of a breach of this license, it terminates automatically and immediately. From that point, you must cease all use and delete all copies of the Software in your possession (backups excepted to the extent legally required).
 
-10) Disclaimer
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
+10) Disclaimer of Warranty
+10.1 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED, INCLUDING (BUT NOT LIMITED TO) MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
 11) Limitation of Liability
-To the maximum extent permitted by law, the Licensor is not liable for indirect/consequential damages, lost profits, data loss, or business interruption. Mandatory liability rules apply.
+11.1 To the extent permitted by law, the Licensor shall not be liable for indirect damages, consequential damages, loss of profit, loss of data, or business interruption.
+11.2 In cases of intent and gross negligence, as well as injury to life, body or health, the statutory provisions apply.
 
 12) Governing Law / Venue
-Germany (excluding CISG), venue: Stuttgart, Germany, where permitted.
+12.1 The law of the Federal Republic of Germany shall apply, excluding the UN Convention on Contracts for the International Sale of Goods (CISG), to the extent permissible.
+12.2 The place of jurisdiction is, to the extent permissible, Stuttgart, Germany.
 
-13) Contact
-dev@nerzors.de
+13) Contact (Commercial License / Permissions)
+DEV@NERZORS.DE
