@@ -1,0 +1,148 @@
+name: 🐛 Bug Report
+description: Report a bug (Windows app)
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! Please fill this out as completely as possible — details speed up fixes. 🛠️
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened? Keep it clear and concise.
+      placeholder: "When I do X, Y happens..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Crash / App closes
+        - Feature not working
+        - UI/Display issue
+        - Performance / Lag
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: "I expected..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Please use numbered steps and be specific.
+      value: |
+        1.
+        2.
+        3.
+        4.
+    validations:
+      required: true
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshot / Video
+      description: Drag & drop here or paste links.
+      placeholder: "Paste screenshot/video here..."
+
+  - type: dropdown
+    id: windows_edition
+    attributes:
+      label: Windows edition
+      options:
+        - Windows 10
+        - Windows 11
+        - Windows Server
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: windows_build
+    attributes:
+      label: Windows version/build
+      description: e.g. 23H2 (22631.2861) / 22H2 (19045.x)
+      placeholder: "23H2 (22631.x)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: arch
+    attributes:
+      label: Architecture
+      options:
+        - x64
+        - arm64
+        - x86
+    validations:
+      required: true
+
+  - type: input
+    id: app_version
+    attributes:
+      label: App version
+      placeholder: "0.12.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: channel
+    attributes:
+      label: Release channel
+      options:
+        - Stable
+        - Pre-Release
+    validations:
+      required: true
+
+  - type: dropdown
+    id: build_type
+    attributes:
+      label: Build type
+      options:
+        - Installer
+        - Standalone
+        - Portable
+    validations:
+      required: true
+
+  - type: dropdown
+    id: source
+    attributes:
+      label: Install source
+      options:
+        - GitHub Releases
+        - Winget / Microsoft Store
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: error
+    attributes:
+      label: Error messages / logs
+      description: Paste relevant output here (or attach files).
+      render: text
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I verified this issue hasn’t been reported already.
+          required: true
+        - label: I can reproduce this reliably (or explained why not).
+          required: false
