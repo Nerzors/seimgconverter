@@ -77,7 +77,7 @@ body:
       description: z.B. 23H2 (22631.2861) / 22H2 (19045.x)
       placeholder: "23H2 (22631.x)"
     validations:
-      required: true
+      required: false
 
   - type: dropdown
     id: arch
