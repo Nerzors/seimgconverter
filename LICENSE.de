@@ -34,9 +34,10 @@ Dieses Lizenzdokument regelt die Nutzung der Software und sämtlicher dazugehör
 
 4) Offizielle Distributionskanäle / Keine Drittanbieter-Downloads
 4.1 Du darfst die Software nur über folgende „Offizielle Quellen“ beziehen und verwenden:
-  - GitHub Releases: https://github.com/Nerzors/seimgconverter
-  - Website: https://app.eternal-quill.space/ (eternal-quill.space | eternal-quill.de | eternal-quill.com)
-  - Website: https://Nerzors.de/ (nerzors.com)
+  - GitHub Releases: https://github.com/Nerzors/seimgconverter/releases
+  - Offizielle Downloadseite: https://app.eternal-quill.space/se/imgconv
+
+Weitere Details (offizielle Builds, Dateinamen, Verifikation, geplante Installer) findest du in OFFICIAL-DOWNLOADS.md.
 4.2 Du darfst die Software nicht selbst oder über Dritte verbreiten/weitergeben (siehe Definition 1.6).
 4.3 Erlaubt ist das Teilen von Links auf die offiziellen Downloadseiten, solange du keine Dateien selbst hostest oder umleitest, die faktisch ein Re-Hosting darstellen.
 
@@ -58,7 +59,7 @@ Dieses Lizenzdokument regelt die Nutzung der Software und sämtlicher dazugehör
 7.2 Bei zulässigen Zitaten/Abbildungen (z. B. Screenshot im Issue) müssen Rechtehinweise, soweit sichtbar, erhalten bleiben.
 
 8) Marken / Namen
-8.1 [SOFTWARE NAME], [PROJECT NAME] und zugehörige Logos können Marken/kennzeichenrechtlich geschützt sein. Eine Nutzung zu Branding- oder Werbezwecken ist ohne schriftliche Zustimmung untersagt.
+8.1 Eternal-Quill: SEImgConverter,  und zugehörige Logos können Marken/kennzeichenrechtlich geschützt sein. Eine Nutzung zu Branding- oder Werbezwecken ist ohne schriftliche Zustimmung untersagt.
 
 9) Laufzeit und Beendigung
 9.1 Diese Lizenz gilt, bis sie beendet wird.
