@@ -1,7 +1,7 @@
 name: 🐛 Bug Report - EN
 description: Report a bug (Windows app) for Language English
 title: "[Bug]: "
-labels: ["bug"]
+labels: ["bug","english"]
 body:
   - type: markdown
     attributes:
