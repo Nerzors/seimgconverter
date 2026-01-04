@@ -3,18 +3,49 @@
 To protect users from modified or malicious builds, **only the sources below are considered official**.
 
 ## ✅ Official download sources
-- GitHub Releases: https://github.com/Nerzors/seimgconverter
-- Eternal-Quill Project Website:
-- - Main for App: https://app.eternal-quill.space/se/imgconv
-- - https://eternal-quill.space/
-- - https://eternal-quill.de/
-- - https://eternal-quill.com/
-- Website by Developer:
-- - https://Nerzors.de/
-- - https://Nerzors.com/
+- **GitHub Releases (primary):** https://github.com/Nerzors/seimgconverter/releases
+- **Project download page (primary):** https://app.eternal-quill.space/se/imgconv
+
+> Any download not linked from the sources above is **unofficial**. 
+
+## ✅ Related project sites (informational)
+These sites may contain information and links, but **downloads are only official** when they point to the sources above:
+- https://eternal-quill.space/
+- https://eternal-quill.de/
+- https://eternal-quill.com/
+- Developer: https://nerzors.de/ | https://nerzors.com/
+
+---
+
+## Official build variants (Windows x64)
+We publish two ZIP variants:
+
+### 1) Self-contained (recommended for most users)
+- Filename pattern: `SEImgConverter_<version>_win-x64.zip`
+- Example: `SEImgConverter_0.12.0-pre1.0_win-x64.zip`
+- Includes required runtime components (bigger download, no additional dependencies)
+
+### 2) Framework-dependent (requires .NET installed)
+- Filename pattern: `SEImgConverter_<version>_win-x64-net.zip`
+- Example: `SEImgConverter_0.12.0-pre1.0_win-x64-net.zip`
+- Requires a compatible **.NET Desktop Runtime (x64)** (smaller download)
+
+---
+
+## Installers (planned)
+An official installer is planned for a future release.
+
+Until then, **only the ZIP variants listed above are official**.
+
+If/when an installer is released, it will be published **only** via the official download sources and will use a filename pattern similar to:
+- `SEImgConverter_<version>_win-x64_setup.exe`
+
+**Security note:** Any installer offered elsewhere (mirrors, download sites, Discord attachments, etc.) is **unofficial** and should be treated as potentially unsafe.
+
+---
 
 ## ✅ Allowed sharing
-You may share **links** to the official sources above.
+You may share **links** to the official download sources above.
 
 ## ❌ Not allowed
 Without prior written permission, you may **not**:
@@ -29,7 +60,6 @@ If you find unofficial/mirrored downloads, please open an issue (or contact us) 
 - the link/source
 - a short description (where it appears)
 
-Contact:
-- Email:
-- - Developer: dev@nerzors.de
-- - Project: project@eternal-quill.space / project@eternal-quill.de / project@eternal-quill.com
+## Contact
+- Email: dev@nerzors.de
+- Project: project@eternal-quill.space
