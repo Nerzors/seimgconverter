@@ -1,0 +1,148 @@
+name: 🐛 Bug Report
+description: Melde einen Fehler (Windows App)
+title: "[Bug]: "
+labels: ["bug", "german"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke fürs Melden! Bitte fülle alles aus — je genauer, desto schneller der Fix. 🛠️
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung
+      description: Was passiert? Bitte kurz und klar.
+      placeholder: "Wenn ich X mache, passiert Y..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Schweregrad
+      options:
+        - Crash / App schließt sich
+        - Funktion geht nicht
+        - UI/Anzeige-Problem
+        - Performance / Lag
+        - Sonstiges
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Erwartetes Verhalten
+      placeholder: "Ich hätte erwartet, dass..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zum Reproduzieren
+      description: Bitte nummeriert und konkret.
+      value: |
+        1.
+        2.
+        3.
+        4.
+    validations:
+      required: true
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshot / Video
+      description: Drag & Drop hier rein oder Links einfügen.
+      placeholder: "Screenshot hier einfügen..."
+
+  - type: dropdown
+    id: windows_edition
+    attributes:
+      label: Windows Edition
+      options:
+        - Windows 10
+        - Windows 11
+        - Windows Server
+        - Andere
+    validations:
+      required: true
+
+  - type: input
+    id: windows_build
+    attributes:
+      label: Windows Version/Build
+      description: z.B. 23H2 (22631.2861) / 22H2 (19045.x)
+      placeholder: "23H2 (22631.x)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: arch
+    attributes:
+      label: Architektur
+      options:
+        - x64
+        - arm64
+        - x86
+    validations:
+      required: true
+
+  - type: input
+    id: app_version
+    attributes:
+      label: App-Version
+      placeholder: "0.12.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: channel
+    attributes:
+      label: Release-Kanal
+      options:
+        - Stable
+        - Pre-Release
+    validations:
+      required: true
+
+  - type: dropdown
+    id: build_type
+    attributes:
+      label: Build-Typ
+      options:
+        - Installer
+        - Standalone
+        - Portable
+    validations:
+      required: true
+
+  - type: dropdown
+    id: source
+    attributes:
+      label: Installationsquelle
+      options:
+        - GitHub Releases
+        - Winget / Microsoft Store
+        - Andere
+    validations:
+      required: true
+
+  - type: textarea
+    id: error
+    attributes:
+      label: Fehlermeldung / Logs
+      description: Bitte relevante Auszüge einfügen (oder als Datei anhängen).
+      render: text
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Ich habe geprüft, dass das Issue nicht bereits existiert.
+          required: true
+        - label: Ich kann den Bug zuverlässig reproduzieren (oder habe es im Text erklärt).
+          required: false
