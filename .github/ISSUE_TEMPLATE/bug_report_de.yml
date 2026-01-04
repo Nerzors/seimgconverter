@@ -63,8 +63,8 @@ body:
     attributes:
       label: Windows Edition
       options:
-        - Windows 10
         - Windows 11
+        - Windows 10
         - Windows Server
         - Andere
     validations:
@@ -112,10 +112,12 @@ body:
     id: build_type
     attributes:
       label: Build-Typ
+      description: Self-contained = SEImgConverter_<version>_win-x64.zip & Framework-dependent = SEImgConverter_<version>_win-x64-net.zip
       options:
-        - Installer
         - Standalone
-        - Portable
+        - Portable (Self-contained)
+        - Portable (Framework-dependent)
+        - Installer
     validations:
       required: true
 
@@ -125,7 +127,6 @@ body:
       label: Installationsquelle
       options:
         - GitHub Releases
-        - Winget / Microsoft Store
         - Andere
     validations:
       required: true
