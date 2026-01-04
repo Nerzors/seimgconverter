@@ -1,0 +1,41 @@
+Eternal-Quill: SEImgConverter
+Copyright (c) 2026 Nerzors (Nerzors.DE). All rights reserved.
+
+LICENSE
+This software is licensed under the "Nerzors NC-NRD-ND License (Non-Commercial / No Redistribution / No Derivatives)".
+See the LICENSE file for the full terms.
+
+BRAND / NAME USAGE (NOT A REGISTERED TRADEMARK)
+"Eternal-Quill" and "SEImgConverter", including associated logos, icons, and visual identity, are brand identifiers of Nerzors.
+No permission is granted to use the names or branding for marketing, promotion, endorsement, or re-branding without prior written consent.
+
+NO REMOVAL OF NOTICES
+Do not remove, alter, or obscure any copyright, license, or other legal notices included with this software.
+
+OFFICIAL DOWNLOAD SOURCES
+Only these sources are considered official:
+- Website: https://app.eternal-quill.space/
+- GitHub Releases: https://github.com/Nerzors/seimgconverter/releases
+See OFFICIAL-DOWNLOADS.md for details.
+
+THIRD-PARTY NOTICES (IMPORTANT)
+This product uses third-party components. Their licenses and notices remain in effect.
+
+Build variants:
+- "Self-contained" downloads may include a bundled .NET Desktop Runtime 10.0 (x64) and related components.
+- "Framework-dependent" downloads do not bundle a .NET Desktop Runtime 10.0 (x64) and require a compatible .NET installation on the system.
+(More Infomation see OFFICIAL-DOWNLOADS.md)
+
+Third-party components:
+- Microsoft .NET (runtime and/or libraries, depending on build variant)
+  License: MIT
+  License reference: https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
+
+- SixLabors.ImageSharp
+  License: Six Labors Split License, Version 1.0
+  Project: https://github.com/SixLabors/ImageSharp
+  Commercial licensing info: https://sixlabors.com/pricing/
+
+CONTACT
+Nerzors (Nerzors.DE) 
+https://app.eternal-quill.space/
