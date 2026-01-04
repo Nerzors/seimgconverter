@@ -114,8 +114,7 @@ body:
       label: Build-Typ
       description: Self-contained = SEImgConverter_<version>_win-x64.zip & Framework-dependent = SEImgConverter_<version>_win-x64-net.zip
       options:
-        - Standalone
-        - Portable (Self-contained)
+        - Standalone (Self-contained)
         - Portable (Framework-dependent)
         - Installer
     validations:
