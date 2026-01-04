@@ -27,9 +27,13 @@ Build variants:
 (More Infomation see OFFICIAL-DOWNLOADS.md)
 
 Third-party components:
-- Microsoft .NET (runtime and/or libraries, depending on build variant)
-  License: MIT
-  License reference: https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
+- Microsoft .NET (Desktop Runtime / WPF)
+  This product is built as a Windows desktop application (WPF).
+  Build variants:
+  - Self-contained downloads may include bundled .NET runtime components.
+  - Framework-dependent downloads require a compatible installed .NET Desktop Runtime (x64).
+  Install/runtime info: https://learn.microsoft.com/en-us/dotnet/core/install/windows
+  Licensing info (Windows distributions may include multiple licenses): https://github.com/dotnet/core/blob/main/license-information.md
 
 - SixLabors.ImageSharp
   License: Six Labors Split License, Version 1.0
