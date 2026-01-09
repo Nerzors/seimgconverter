@@ -107,10 +107,10 @@ You can disable auto-checks in **Settings**.
 - ✅ Verified presets (since v0.9.0)
 - ✅ More dithering modes (since v0.11.0)
 - ✅ Rotate / Flip tools (since v0.12.0)
-- ✅ [More __Render filters__: *Auto Levels*, *Contrast*, *Gamma*](https://github.com/Nerzors/seimgconverter/issues/11) (since v0.13.0)
-- ✅ [**Dither Strength** for fine tuning (in progress)](https://github.com/Nerzors/seimgconverter/issues/12) (since v0.13.0) 
-- ✅ [Undo / Redo + History tab (in progress)](https://github.com/Nerzors/seimgconverter/issues/13) (since v0.13.0)
-- ✅ [Export Manager improvements (in progress)](https://github.com/Nerzors/seimgconverter/issues/14) (since v0.13.0)
+- ✅ More __Render filters__: *Auto Levels*, *Contrast*, *Gamma* (since v0.13.0)
+- ✅ **Dither Strength** for fine tuning (since v0.13.0) 
+- ✅ Undo / Redo + History tab (since v0.13.0)
+- ✅ Export Manager improvements (since v0.13.0)
 - 🚧 [Fun / Special *__Style Presets__*: *Retro CRT*, *Blueprint*, *Comic*](https://github.com/Nerzors/seimgconverter/issues/15)
 - 🌍 ~~[More languages (maybe?)](https://github.com/Nerzors/seimgconverter/issues/16)~~
 
