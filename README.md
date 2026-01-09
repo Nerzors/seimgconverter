@@ -17,9 +17,6 @@
   <a href="https://github.com/Nerzors/seimgconverter/commits/main" style="text-decoration: none;">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/Nerzors/seimgconverter?style=flat&label=last%20commit" />
   </a>
-  <a href="https://github.com/Nerzors/seimgconverter/blob/main/LICENSE" style="text-decoration: none;">
-    <img alt="license" src="https://img.shields.io/github/license/Nerzors/seimgconverter?style=flat&label=license" />
-  </a>
   <img alt="Tech" src="https://img.shields.io/badge/.NET-WPF-blueviolet" />
 </p>
 
