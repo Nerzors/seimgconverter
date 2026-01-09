@@ -35,7 +35,7 @@ Get the latest release here: **https://github.com/Nerzors/seimgconverter/release
 ## Preview
 YouTube: [Showcase - Preview #000](https://youtu.be/VIy1W16Ep-I) *before update v0.12.0*
 
-<img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0.png" width="720" />
+<img src="https://app.eternal-quill.space/se/imgconv/update_0.13.0_1.png" width="720" />
 <p float="left">
   <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_1.png" width="360" />
   <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_2.png" width="360" />
@@ -65,11 +65,16 @@ YouTube: [Showcase - Preview #000](https://youtu.be/VIy1W16Ep-I) *before update 
 ### Image / Render
 - Multiple **dithering modes** (Floyd–Steinberg, Bayer, Atkinson, …)
 - Render filters:
+  - **Auto Levels**
+  - **Contrast**
+  - **Gamma**
   - **Blur / Sharpen**
+- Right-click on sliders to **reset to default values**
 
 ### Workflow
 - **Copy per panel** + export as `.txt`
 - **Library**: save conversions including settings, layout, thumbnail + optional source
+- **Undo / Redo** for editor changes + **History tab**
 - Built-in **update checker** (disable in Settings)
 
 ---
@@ -102,12 +107,12 @@ You can disable auto-checks in **Settings**.
 - ✅ Verified presets (since v0.9.0)
 - ✅ More dithering modes (since v0.11.0)
 - ✅ Rotate / Flip tools (since v0.12.0)
-- 🚧 [More __Render filters__: *Auto Levels*, *Contrast*, *Gamma*](https://github.com/Nerzors/seimgconverter/issues/11)
-- 🚧 [**Dither Strength** for fine tuning (in progress)](https://github.com/Nerzors/seimgconverter/issues/12)
-- 🚧 [Undo / Redo + History tab (in progress)](https://github.com/Nerzors/seimgconverter/issues/13)
-- 🚧 [Export Manager improvements (in progress)](https://github.com/Nerzors/seimgconverter/issues/14)
-- 🕛 [Fun / Special *__Style Presets__*: *Retro CRT*, *Blueprint*, *Comic*](https://github.com/Nerzors/seimgconverter/issues/15)
-- 🌍 [More languages (maybe?)](https://github.com/Nerzors/seimgconverter/issues/16)
+- ✅ [More __Render filters__: *Auto Levels*, *Contrast*, *Gamma*](https://github.com/Nerzors/seimgconverter/issues/11) (since v0.13.0)
+- ✅ [**Dither Strength** for fine tuning (in progress)](https://github.com/Nerzors/seimgconverter/issues/12) (since v0.13.0) 
+- ✅ [Undo / Redo + History tab (in progress)](https://github.com/Nerzors/seimgconverter/issues/13) (since v0.13.0)
+- ✅ [Export Manager improvements (in progress)](https://github.com/Nerzors/seimgconverter/issues/14) (since v0.13.0)
+- 🚧 [Fun / Special *__Style Presets__*: *Retro CRT*, *Blueprint*, *Comic*](https://github.com/Nerzors/seimgconverter/issues/15)
+- 🌍 ~~[More languages (maybe?)](https://github.com/Nerzors/seimgconverter/issues/16)~~
 
 ---
 
