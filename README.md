@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://app.eternal-quill.space/se/imgconv/media/eternal-quill_seimgconverter_logo.sm.png" width="345" alt="SEImgConverter Logo" />
+  <a href="https://app.eternal-quill.space/se/imgconv" style="text-decoration: none;">
+    <img src="https://app.eternal-quill.space/se/imgconv/media/eternal-quill_seimgconverter_logo.sm.png" width="345" alt="SEImgConverter Logo" />
+  </a>
 </p>
 
 <h1 align="center">Eternal-Quill: SEImgConverter (Space Engineers Image → Monospace)</h1>
