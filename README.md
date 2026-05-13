@@ -25,7 +25,7 @@
 SEImgConverter converts images into **monospace text strings** you can paste into **Space Engineers LCD panels** (`Text and Images`).  
 It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 panel, 3 panels, 3x2, etc.) and an update system.
 
-> **Languages:** English + German (since v0.9.0)
+> **Languages:** English + German
 
 ---
 
@@ -113,7 +113,7 @@ You can disable auto-checks in **Settings**.
 - ✅ **Dither Strength** for fine tuning (since v0.13.0) 
 - ✅ Undo / Redo + History tab (since v0.13.0)
 - ✅ Export Manager improvements (since v0.13.0)
-- 🚧 [Fun / Special *__Style Presets__*: *Retro CRT*, *Blueprint*, *Comic*](https://github.com/Nerzors/seimgconverter/issues/15)
+- 🚧 Fun / Special *__Style Presets__*: *Retro CRT*, *Blueprint*, *Comic*
 - 🌍 ~~[More languages (maybe?)](https://github.com/Nerzors/seimgconverter/issues/16)~~
 
 ---
