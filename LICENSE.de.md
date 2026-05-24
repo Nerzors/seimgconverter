@@ -1,80 +1,89 @@
-Nerzors NC-NRD-ND License (Non-Commercial / No Redistribution / No Derivatives) v1.0
-Effective Date: [2026-01-01]
+# License: Nerzors NC-NRD-ND v1.1
 
-Copyright (c) 2025 Nerzors.DE
-All rights reserved.
+Nerzors NC-NRD-ND License (Non-Commercial / No Redistribution / No Derivatives) v1.0 Effective Date: [2026-05-24]
+
+Copyright (c) 2025 Nerzors.DE All rights reserved.
 
 Dieses Lizenzdokument regelt die Nutzung der Software und sämtlicher dazugehöriger Inhalte.
 
-1) Definitionen
-- 1.1 „Software“ bezeichnet das/die Programm(e) ETERNAL-QUILL: SEIMGCONVERTER, einschließlich ausführbarer Dateien, Installer, Portable/Standalone-Builds, Quellcode (falls vorhanden), Bibliotheken, Module, Updates, sowie sämtliche Inhalte, Ressourcen und Materialien, die mitgeliefert werden oder zur Software gehören (z. B. Icons, Grafiken, Logos, UI-Assets, Sounds, Texte, Konfigurationsdateien, Templates, Übersetzungen, Dokumentation).
-- 1.2 „Lizenzgeber“ ist Nerzors - Nerzors.DE.
-- 1.3 „Du“/„Nutzer“ ist jede natürliche oder juristische Person, die die Software nutzt oder darauf zugreift.
-- 1.4 „Nicht-kommerzielle Nutzung“ ist jede Nutzung ausschließlich für private, persönliche Zwecke ohne Bezug zu einer geschäftlichen, beruflichen oder gewerblichen Tätigkeit und ohne monetäre oder wirtschaftliche Vorteile.
-- 1.5 „Kommerzielle Nutzung“ ist jede Nutzung, die direkt oder indirekt in Verbindung mit einer geschäftlichen, beruflichen, gewerblichen oder institutionellen Tätigkeit steht oder einen wirtschaftlichen Vorteil anstrebt/ermöglicht. Kommerzielle Nutzung umfasst insbesondere (nicht abschließend):
-   (a) Nutzung durch Unternehmen, Behörden, Organisationen, Vereine, Bildungsträger oder sonstige juristische Personen,
-   (b) Nutzung im Rahmen der Arbeit/beruflichen Tätigkeit (auch intern, auch ohne Weitergabe),
-   (c) Nutzung zur Erbringung von Dienstleistungen für Dritte,
-   (d) Nutzung in monetarisierten Inhalten (z. B. Werbung, Sponsoring, bezahlte Kurse, Paywall),
-   (e) Nutzung zur Unterstützung, Bewerbung oder zum Betrieb eines Produkts, Services oder Geschäftsprozesses.
-- 1.6 „Verbreitung/Weitergabe“ bezeichnet jedes Anbieten, Überlassen, Hochladen, Spiegeln, Re-Hosting, Bündeln, Teilen oder anderweitige Zugänglichmachen der Software oder von Kopien davon an Dritte – einschließlich über App-Stores, Paketmanager, Download-Portale, Foren, Messenger, „Mirror“-Server, Torrents oder eigene Websites.
-- 1.7 „Abgeleitete Werke/Modifikationen“ bezeichnet jede Änderung, Anpassung, Übersetzung, Bearbeitung, Umgestaltung, Erweiterung, Kompilierung einer geänderten Version, Patch, Fork, Re-Branding, oder sonstige Bearbeitung der Software oder eines Teils davon.
-- 1.8 „Entnahme von Elementen“ bezeichnet das Kopieren, Extrahieren, Wiederverwenden oder Einbauen von Teilen der Software (z. B. Code-Snippets, Algorithmen-Implementierungen, UI-Assets, Icons, Texte, Designs, Layouts, Konfigurationen, Templates) in andere Projekte, Produkte oder Veröffentlichungen.
+## 1. Definitionen
+	1.1 „Software“ bezeichnet das/die Programm(e) ETERNAL-QUILL: SEIMGCONVERTER, einschließlich ausführbarer Dateien, Installer, Portable/Standalone-Builds, Quellcode (falls vorhanden), Bibliotheken, Module, Updates, sowie sämtliche Inhalte, Ressourcen und Materialien, die mitgeliefert werden oder zur Software gehören (z. B. Icons, Grafiken, Logos, UI-Assets, Sounds, Texte, Konfigurationsdateien, Templates, Übersetzungen, Dokumentation).
+	1.2 „Lizenzgeber“ ist Nerzors - Nerzors.DE.
+	1.3 „Du“/„Nutzer“ ist jede natürliche oder juristische Person, die die Software nutzt oder darauf zugreift.
+	1.4 „Nicht-kommerzielle Nutzung“ ist jede Nutzung ausschließlich für private, persönliche Zwecke ohne Bezug zu einer geschäftlichen, beruflichen oder gewerblichen Tätigkeit und ohne monetäre oder wirtschaftliche Vorteile.
+	1.5 „Kommerzielle Nutzung“ ist jede Nutzung, die direkt oder indirekt in Verbindung mit einer geschäftlichen, beruflichen, gewerblichen oder institutionellen Tätigkeit steht oder einen wirtschaftlichen Vorteil anstrebt/ermöglicht. Kommerzielle Nutzung umfasst insbesondere (nicht abschließend): 
+		- (a) Nutzung durch Unternehmen, Behörden, Organisationen, Vereine, Bildungsträger oder sonstige juristische Personen,
+		- (b) Nutzung im Rahmen der Arbeit/beruflichen Tätigkeit (auch intern, auch ohne Weitergabe),
+		- (c) Nutzung zur Erbringung von Dienstleistungen für Dritte,
+		- (d) Einbindung der Software oder ihrer Ausgabe in ein kommerzielles Produkt, einen bezahlten Dienst oder ein kostenpflichtiges/zum Verkauf stehendes Angebot, das du verkaufst oder betreibst,
+		- (e) Nutzung zur Unterstützung, Bewerbung oder zum Betrieb eines Produkts, Services oder Geschäftsprozesses.
+	1.5a Redaktionelle Inhalte über die Software - Reviews, Tests, Tutorials, Videos und Livestreams - sind KEINE kommerzielle Nutzung und gemäß Abschnitt 3a stets erlaubt, auch auf monetarisierten Kanälen.
+	1.6 „Verbreitung/Weitergabe“ bezeichnet jedes Anbieten, Überlassen, Hochladen, Spiegeln, Re-Hosting, Bündeln, Teilen oder anderweitige Zugänglichmachen der Software oder von Kopien davon an Dritte - einschließlich über App-Stores, Paketmanager, Download-Portale, Foren, Messenger, „Mirror“-Server, Torrents oder eigene Websites.
+	1.7 „Abgeleitete Werke/Modifikationen“ bezeichnet jede Änderung, Anpassung, Übersetzung, Bearbeitung, Umgestaltung, Erweiterung, Kompilierung einer geänderten Version, Patch, Fork, Re-Branding, oder sonstige Bearbeitung der Software oder eines Teils davon.
+	1.8 „Entnahme von Elementen“ bezeichnet das Kopieren, Extrahieren, Wiederverwenden oder Einbauen von Teilen der Software (z. B. Code-Snippets, Algorithmen-Implementierungen, UI-Assets, Icons, Texte, Designs, Layouts, Konfigurationen, Templates) in andere Projekte, Produkte oder Veröffentlichungen.
 
-3) Lizenzgewährung (Nur nicht-kommerziell)
-- 2.1 Der Lizenzgeber gewährt dir eine widerrufliche, nicht-exklusive, nicht-übertragbare, nicht-unterlizenzierbare Lizenz, die Software ausschließlich nicht-kommerziell zu:
-   - (a) herunterladen (nur aus offiziellen Quellen gemäß Abschnitt 4),
-   - (b) installieren und ausführen,
-   - (c) eine angemessene Anzahl an Kopien für persönliche Backups zu erstellen.
-- 2.2 Alle Rechte, die nicht ausdrücklich gewährt werden, bleiben dem Lizenzgeber vorbehalten.
+## 2. Lizenzgewährung (Nur nicht-kommerziell)
+	2.1 Der Lizenzgeber gewährt dir eine widerrufliche, nicht-exklusive, nicht-übertragbare, nicht-unterlizenzierbare Lizenz, die Software ausschließlich nicht-kommerziell zu:
+		- (a) herunterladen (nur aus offiziellen Quellen gemäß Abschnitt 4),
+		- (b) installieren und ausführen,
+		- (c) eine angemessene Anzahl an Kopien für persönliche Backups zu erstellen.
+	2.2 Alle Rechte, die nicht ausdrücklich gewährt werden, bleiben dem Lizenzgeber vorbehalten.
 
-4) Kommerzielle Nutzung (nur mit schriftlicher Erlaubnis)
-- 3.1 Jede kommerzielle Nutzung ist ohne vorherige schriftliche Zustimmung des Lizenzgebers strikt untersagt.
-- 3.2 Für kommerzielle Nutzung kann der Lizenzgeber eine separate kommerzielle Lizenz erteilen (ggf. entgeltlich). Kontakt: DEV@NERZORS.DE.
+## 3. Kommerzielle Nutzung (nur mit schriftlicher Erlaubnis)
+	3.1 Jede kommerzielle Nutzung ist ohne vorherige schriftliche Zustimmung des Lizenzgebers strikt untersagt.
+	3.2 Für kommerzielle Nutzung kann der Lizenzgeber eine separate kommerzielle Lizenz erteilen (ggf. entgeltlich). Kontakt: DEV@NERZORS.DE.
 
-5) Offizielle Distributionskanäle / Keine Drittanbieter-Downloads
-- 4.1 Du darfst die Software nur über folgende „Offizielle Quellen“ beziehen und verwenden:
-  - GitHub Releases: https://github.com/Nerzors/seimgconverter/releases
-  - Offizielle Downloadseite: https://app.eternal-quill.space/se/imgconv
+## 3a. Reviews, Videos & Content-Erstellung (immer erlaubt)
+	3a.1 Du darfst frei Inhalte erstellen und veröffentlichen, die die Software zeigen, rezensieren, testen, vorführen oder erklären - einschließlich Screenshots, Bildschirmaufnahmen, Livestreams, Tutorials und Reviews - auf jeder Plattform (z. B. YouTube, Twitch, TikTok, Blogs).
+	3a.2 Das ist ausdrücklich auch auf monetarisierten Kanälen erlaubt (Werbung, Sponsoring, Mitgliedschaften, „Super Thanks" usw.) und gilt nicht als kommerzielle Nutzung im Sinne dieser Lizenz.
+	3a.3 Einfache Bedingungen:
+		- (a) Verbreite nicht die Softwaredateien selbst (Installer, ZIPs, Binärdateien oder entnommene Teile); verlinke für Downloads die offiziellen Quellen aus Abschnitt 4.
+		- (b) Lasse sichtbare Copyright-/Branding-/Credit-Hinweise unangetastet (nicht wegschneiden und die Software nicht als deine eigene ausgeben).
+		- (c) Erwecke ohne schriftliche Erlaubnis nicht den Eindruck einer offiziellen Partnerschaft, eines Sponsorings oder einer Empfehlung durch den Lizenzgeber.
+	3a.4 Kurz gesagt: Ein Video oder Review über die App zu machen - auch eines, mit dem du Geld verdienst - ist willkommen. Die App selbst zu verkaufen, zu bündeln oder weiterzuverbreiten ist es nicht (siehe Abschnitte 3 und 4).
 
-Weitere Details (offizielle Builds, Dateinamen, Verifikation, geplante Installer) findest du in OFFICIAL-DOWNLOADS.md.
-- 4.2 Du darfst die Software nicht selbst oder über Dritte verbreiten/weitergeben (siehe Definition 1.6).
-- 4.3 Erlaubt ist das Teilen von Links auf die offiziellen Downloadseiten, solange du keine Dateien selbst hostest oder umleitest, die faktisch ein Re-Hosting darstellen.
+## 4. Offizielle Distributionskanäle / Keine Drittanbieter-Downloads
+	4.1 Du darfst die Software nur über folgende „Offizielle Quellen“ beziehen und verwenden:
+		- GitHub Releases: https://github.com/Nerzors/seimgconverter/releases
+		- Offizielle Downloadseite: https://app.eternal-quill.space/se/imgconv
+	Weitere Details (offizielle Builds, Dateinamen, Verifikation, geplante Installer) findest du in OFFICIAL-DOWNLOADS.md.
+	4.2 Du darfst die Software nicht selbst oder über Dritte verbreiten/weitergeben (siehe Definition 1.6).
+	4.3 Erlaubt ist das Teilen von Links auf die offiziellen Downloadseiten, solange du keine Dateien selbst hostest oder umleitest, die faktisch ein Re-Hosting darstellen.
 
-5) Keine Modifikationen / Keine abgeleiteten Werke
-- 5.1 Du darfst die Software nicht modifizieren und keine abgeleiteten Werke erstellen oder veröffentlichen.
-- 5.2 Du darfst insbesondere nicht:
-  - (a) geänderte Builds/Installer/Portable-Versionen erstellen oder verbreiten,
-  - (b) die Software dekompilieren, disassemblieren oder reverse-engineeren,
-  - (c) Schutzmechanismen umgehen oder entfernen.
-- 5.3 Ausnahmen gelten nur, soweit zwingendes Recht in deinem Land bestimmte Handlungen ausdrücklich erlaubt (z. B. gesetzlich erlaubte Interoperabilitätsanalyse). Soweit eine Ausnahme greift, ist der Umfang auf das zwingend Erforderliche zu beschränken.
+## 5. Keine Modifikationen / Keine abgeleiteten Werke
+	5.1 Du darfst die Software nicht modifizieren und keine abgeleiteten Werke erstellen oder veröffentlichen.
+	5.2 Du darfst insbesondere nicht:
+		- (a) geänderte Builds/Installer/Portable-Versionen erstellen oder verbreiten,
+		- (b) die Software dekompilieren, disassemblieren oder reverse-engineeren,
+		- (c) Schutzmechanismen umgehen oder entfernen.
+	5.3 Ausnahmen gelten nur, soweit zwingendes Recht in deinem Land bestimmte Handlungen ausdrücklich erlaubt (z. B. gesetzlich erlaubte Interoperabilitätsanalyse). Soweit eine Ausnahme greift, ist der Umfang auf das zwingend Erforderliche zu beschränken.
 
-6) Keine Entnahme von Elementen / Kein Wiederverwenden von Bestandteilen
-- 6.1 Du darfst keine Elemente aus der Software entnehmen oder wiederverwenden (Definition 1.8), weder vollständig noch teilweise, ohne vorherige schriftliche Zustimmung des Lizenzgebers.
-- 6.2 Dies umfasst ausdrücklich auch: Icons/Logos, Grafiken, UI-Design/Layouts, Texte/Strings, Templates, Konfigurationsdateien, sowie Code-Teile (auch kleine Ausschnitte), sofern nicht zwingendes Recht etwas anderes erlaubt.
-- 6.3 Unberührt bleibt das Recht, die Software zu beschreiben, zu rezensieren oder Screenshots für Bug-Reports/Feedback zu erstellen, solange dabei keine Weitergabe der Softwaredateien erfolgt und Rechtevermerke nicht entfernt werden.
+## 6. Keine Entnahme von Elementen / Kein Wiederverwenden von Bestandteilen
+	6.1 Du darfst keine Elemente aus der Software entnehmen oder wiederverwenden (Definition 1.8), weder vollständig noch teilweise, ohne vorherige schriftliche Zustimmung des Lizenzgebers.
+	6.2 Dies umfasst ausdrücklich auch: Icons/Logos, Grafiken, UI-Design/Layouts, Texte/Strings, Templates, Konfigurationsdateien, sowie Code-Teile (auch kleine Ausschnitte), sofern nicht zwingendes Recht etwas anderes erlaubt.
+	6.3 Unberührt bleibt das Recht, die Software zu beschreiben, zu rezensieren oder Inhalte darüber zu erstellen (einschließlich Screenshots, Videos und Livestreams - siehe Abschnitt 3a) sowie Screenshots für Bug-Reports/Feedback zu nutzen, solange dabei keine Weitergabe der Softwaredateien erfolgt und Rechtevermerke nicht entfernt werden.
 
-7) Copyright- und Hinweis-Pflichten
-- 7.1 Du darfst Copyright-, Marken-, Lizenz- oder sonstige Rechtehinweise nicht entfernen, verändern oder unkenntlich machen.
-- 7.2 Bei zulässigen Zitaten/Abbildungen (z. B. Screenshot im Issue) müssen Rechtehinweise, soweit sichtbar, erhalten bleiben.
+## 7. Copyright- und Hinweis-Pflichten
+	7.1 Du darfst Copyright-, Marken-, Lizenz- oder sonstige Rechtehinweise nicht entfernen, verändern oder unkenntlich machen.
+	7.2 Bei zulässigen Zitaten/Abbildungen (z. B. Screenshot im Issue) müssen Rechtehinweise, soweit sichtbar, erhalten bleiben.
 
-8) Marken / Namen
-- 8.1 Eternal-Quill: SEImgConverter, Nerzors und zugehörige Logos können Marken/kennzeichenrechtlich geschützt sein. Eine Nutzung zu Branding- oder Werbezwecken ist ohne schriftliche Zustimmung untersagt.
+## 8. Marken / Namen
+	8.1 Eternal-Quill: SEImgConverter, Nerzors und zugehörige Logos können Marken/kennzeichenrechtlich geschützt sein. Eine Nutzung zu Branding- oder Werbezwecken ist ohne schriftliche Zustimmung untersagt.
 
-9) Laufzeit und Beendigung
-- 9.1 Diese Lizenz gilt, bis sie beendet wird.
-- 9.2 Bei Verstoß gegen diese Lizenz endet sie automatisch und sofort. Ab diesem Zeitpunkt musst du jede Nutzung einstellen und alle Kopien der Software in deinem Besitz löschen (Backups ausgenommen, soweit gesetzlich erforderlich).
+## 9. Laufzeit und Beendigung
+	9.1 Diese Lizenz gilt, bis sie beendet wird.
+	9.2 Bei Verstoß gegen diese Lizenz endet sie automatisch und sofort. Ab diesem Zeitpunkt musst du jede Nutzung einstellen und alle Kopien der Software in deinem Besitz löschen (Backups ausgenommen, soweit gesetzlich erforderlich).
 
-10) Gewährleistungsausschluss
-- 10.1 DIE SOFTWARE WIRD „WIE BESEHEN“ BEREITGESTELLT, OHNE JEGLICHE GEWÄHRLEISTUNG, AUSDRÜCKLICH ODER STILLSCHWEIGEND, EINSCHLIESSLICH (ABER NICHT BESCHRÄNKT AUF) MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG VON RECHTEN.
+## 10. Gewährleistungsausschluss
+	10.1 DIE SOFTWARE WIRD „WIE BESEHEN“ BEREITGESTELLT, OHNE JEGLICHE GEWÄHRLEISTUNG, AUSDRÜCKLICH ODER STILLSCHWEIGEND, EINSCHLIESSLICH (ABER NICHT BESCHRÄNKT AUF) MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG VON RECHTEN.
 
-11) Haftungsbeschränkung
-- 11.1 Soweit gesetzlich zulässig, haftet der Lizenzgeber nicht für indirekte Schäden, Folgeschäden, entgangenen Gewinn, Datenverlust oder Betriebsunterbrechungen.
-- 11.2 Bei Vorsatz und grober Fahrlässigkeit sowie bei Verletzung von Leben, Körper oder Gesundheit gelten die gesetzlichen Regelungen.
+## 11. Haftungsbeschränkung
+	11.1 Soweit gesetzlich zulässig, haftet der Lizenzgeber nicht für indirekte Schäden, Folgeschäden, entgangenen Gewinn, Datenverlust oder Betriebsunterbrechungen.
+	11.2 Bei Vorsatz und grober Fahrlässigkeit sowie bei Verletzung von Leben, Körper oder Gesundheit gelten die gesetzlichen Regelungen.
 
-12) Anwendbares Recht / Gerichtsstand
-- 12.1 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts, soweit zulässig.
-- 12.2 Gerichtsstand ist, soweit zulässig, Stuttgart, Deutschland.
+## 12. Anwendbares Recht / Gerichtsstand
+	12.1 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts, soweit zulässig.
+	12.2 Gerichtsstand ist, soweit zulässig, Stuttgart, Deutschland.
 
-13) Kontakt (Kommerzielle Lizenz / Erlaubnisse)
-- Mail: DEV@NERZORS.DE
+## Kontakt (Kommerzielle Lizenz / Erlaubnisse)
+	Mail: DEV@NERZORS.DE
