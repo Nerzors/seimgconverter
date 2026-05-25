@@ -133,4 +133,4 @@ Project page: **Eternal-Quill**
 ---
 
 
-License: Nerzors NC-NRD-ND v1.0 (see LICENSE)
+License: Nerzors NC-NRD-ND v1.1 (see LICENSE)
