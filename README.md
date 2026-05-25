@@ -27,6 +27,8 @@ It includes a live preview, crop box, dithering, multi-panel output (e.g. 1 pane
 
 > **Languages:** English + German
 
+> 🎉 **v1.0 is here - the Final 1.0 Release!** A big editor & cropping overhaul. Development continues, so more updates will of course follow.
+
 ---
 
 ## Download
@@ -37,15 +39,14 @@ Get the latest release here: **https://github.com/Nerzors/seimgconverter/release
 ## Preview
 YouTube: [Showcase - Preview #000](https://youtu.be/VIy1W16Ep-I) *before update v0.12.0*
 
-<img src="https://app.eternal-quill.space/se/imgconv/update_0.13.0_1.png" width="720" />
+<img src="https://app.eternal-quill.space/se/imgconv/update_1.0.0_2.png" width="720" />
+<p float="left">
+  <img src="https://app.eternal-quill.space/se/imgconv/update_1.0.0.png" width="360" />
+  <img src="https://app.eternal-quill.space/se/imgconv/update_1.0.0_1.png" width="360" />
+</p>
 <p float="left">
   <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_1.png" width="360" />
   <img src="https://app.eternal-quill.space/se/imgconv/update_0.12.0_2.png" width="360" />
-</p>
-<p float="left">
-  <img src="https://eternal-quill.space/se/imgconv/preview_1.png" width="220" />
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.10.0_2.png" width="220" />
-  <img src="https://app.eternal-quill.space/se/imgconv/update_0.11.0.png" width="220" />
 </p>
 
 ---
@@ -54,13 +55,15 @@ YouTube: [Showcase - Preview #000](https://youtu.be/VIy1W16Ep-I) *before update 
 
 ### Core
 - Convert images to **monospace text** for Space Engineers LCDs
-- **Live Preview** with automatic re-convert on relevant setting changes
+- **Fast Live Preview** - the source image is decoded once and reused, so filter/dither tweaks update instantly
 - **Multi-panel layouts** (Cols × Rows) to split an image across multiple LCDs
 - **Panel presets** for different LCD block types & sizes (verified presets included)
 
 ### Editor Tools
-- **Crop box** with optional mask + rule-of-thirds grid
-- **Pan / Zoom**
+- **WYSIWYG crop** with aspect modes - **Auto** (matches your panel), **Free**, **1:1**: what you crop is what you get
+- **Crop box** with optional mask, rule-of-thirds, a **live size badge**, edge/center **snapping** and **keyboard cropping** (arrows · Shift+arrows resize · Esc reset)
+- **Source zoom** (hold `Shift` + scroll) to position the crop precisely
+- **Display-only zoom/pan** in the result preview - instant (wheel zoom · drag pan · double-click reset), no re-render
 - **Rotate / Flip** tools + transform state indicator
 - **Grid overlay** to visualize panel splits
 
@@ -74,10 +77,11 @@ YouTube: [Showcase - Preview #000](https://youtu.be/VIy1W16Ep-I) *before update 
 - Right-click on sliders to **reset to default values**
 
 ### Workflow
-- **Copy per panel** + export as `.txt`
+- **Copy per panel** + export as `.txt` (single, combined, or to clipboard)
 - **Library**: save conversions including settings, layout, thumbnail + optional source
-- **Undo / Redo** for editor changes + **History tab**
-- Built-in **update checker** (disable in Settings)
+- **Undo / Redo** with a **redesigned History tab** (clear timeline + per-step details)
+- **Update system** that lists every changelog you missed, plus browsable **News & announcements** (both toggleable in Settings)
+- In-app **Privacy Policy**, Terms & licenses - all your data stays local
 
 ---
 
@@ -92,7 +96,7 @@ YouTube: [Showcase - Preview #000](https://youtu.be/VIy1W16Ep-I) *before update 
    - **Font:** `Monospace`
    - Paste text
    - Adjust **Font Size**  
-     (common values: around `0.1` for many panels, `0.4` for some Corner LCDs — depends on block size)
+     (common values: around `0.1` for many panels, `0.4` for some Corner LCDs - depends on block size)
 
 **Tip:** For best results, use **Crop + Zoom ~0.9–1.2** and a dithering mode.
 
@@ -113,6 +117,10 @@ You can disable auto-checks in **Settings**.
 - ✅ **Dither Strength** for fine tuning (since v0.13.0) 
 - ✅ Undo / Redo + History tab (since v0.13.0)
 - ✅ Export Manager improvements (since v0.13.0)
+- ✅ **WYSIWYG crop** (Auto / Free / 1:1), source zoom, keyboard cropping & snapping (since v1.0.0)
+- ✅ Display-only zoom/pan + much faster live preview (since v1.0.0)
+- ✅ Redesigned History tab, richer Update/News system, in-app Privacy Policy (since v1.0.0)
+- 🎉 **Final Release v1.0 reached - and updates will keep coming!**
 - 🚧 Fun / Special *__Style Presets__*: *Retro CRT*, *Blueprint*, *Comic*
 - 🌍 ~~[More languages (maybe?)](https://github.com/Nerzors/seimgconverter/issues/16)~~
 
